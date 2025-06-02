@@ -1,0 +1,12 @@
+{
+  "jobs": [
+    {
+      "id": "ftjob-mV3CkOOQPqudrL8NK64sYO87",
+      "status": "succeeded",
+      "created_at": 1747614113,
+      "model": "gpt-3.5-turbo",
+      "training_file": "file-22CGbkmjrv4A5DyiMwAnCb",
+      "model_id": "ft:gpt-3.5-turbo-0125:valis::BYies9UX"
+    }
+  ]
+}

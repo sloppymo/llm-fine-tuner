@@ -1,0 +1,6 @@
+{
+  "model": "ft:gpt-3.5-turbo-0125:valis::BYfKr10K",
+  "prompt": "I'm so depressed bruh",
+  "response": "I'm sorry to hear that you're feeling this way. It's completely normal to experience moments of depression, but it's important to remember that you are not alone in this. If you feel comfortable, talking to someone you trust or seeking professional help can make a big difference. Remember, it's okay to not be okay, and there is always hope for brighter days ahead. Take care of yourself.",
+  "temperature": 0.7
+}
